@@ -3,7 +3,7 @@ require 'pry'
  
 
 def plus_two(num)
- puts num + 2 = value
-  num
+ num + 2 = value
+puts value
   binding.pry
 end
